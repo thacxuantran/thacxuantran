@@ -1,8 +1,10 @@
 # Hi, I'm Shayn Tran 👋
 
+📍 Da Nang, Vietnam | 🤖 Full-stack Developer | 🚀 Explorer
+
 🎯 **Focusing** on building AI-powered web applications and modern frontend experiences.
 
-📍 Vietnam | [Portfolio](https://shayniac.vercel.app) | [LinkedIn](https://linkedin.com/in/thacxuantran) | [Facebook](https://facebook.com/thacxuantran)
+[Portfolio](https://shayniac.vercel.app) | [LinkedIn](https://linkedin.com/in/thacxuantran) | [Facebook](https://facebook.com/thacxuantran)
 
 ---
 
@@ -18,10 +20,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-### AI & LLMs
+<!-- ### AI & LLMs
 ![Claude](https://img.shields.io/badge/-Claude-D97706?style=flat&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) -->
 
 ---
 
@@ -56,52 +58,29 @@ A clean, modern task tracking application built with Next.js and TypeScript.
 
 ---
 
-### 👥 FrontGEN
-> Recruitment Management System
+## 🎯 What I'm Doing
 
-Frontend application for managing recruitment workflows with Docker deployment support.
+- 🔭 Currently working on **Litosistant** - AI-powered POD Listing Optimizer
+- 🌱 Learning more about **AI/LLM integration** and **modern web architectures**
+- 👯 Open to collaborate on **AI-powered web applications**
+- 💬 Ask me about **React, Next.js, TypeScript, and AI integrations**
 
-**Tech:** `JavaScript` `SCSS` `Webpack` `Docker` `Nginx`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thacxuantran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thacxuantran&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thacxuantran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thacxuantran&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</p>
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/thacxuantran">
+  <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/thacxuantran">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://facebook.com/thacxuantran">
+  <a target="_blank" rel="noopener noreferrer" href="https://facebook.com/thacxuantran">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://shayniac.vercel.app">
+  <a target="_blank" rel="noopener noreferrer" href="https://shayniac.vercel.app">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:xuanthactk13@gmail.com">
+  <a target="_blank" rel="noopener noreferrer" href="mailto:xuanthactk13@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
