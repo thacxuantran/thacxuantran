@@ -29,14 +29,14 @@
 
 ## 🚀 Featured Projects
 
-### 👕 [Teelab Studio](https://teelabstudio.vercel.app/)
+### 👕 [Ecommerce Studio](https://teelabstudio.vercel.app/)
 > Full-Stack E-commerce Platform
 
 A modern e-commerce platform for fashion and apparel, featuring product management with variants (color, size, style), shopping cart, checkout with PayPal integration, and an admin CRM dashboard. Built with v0.dev for rapid UI development.
 
 **Tech:** `Next.js 15` `React 19` `TypeScript` `Prisma` `PostgreSQL` `PayPal` `Tailwind CSS` `Radix UI`
 
-### 🤖 Litosistant
+### 🤖 [Litosistant](https://litosistant.com) 
 > AI-powered POD (Print-on-Demand) Listing Optimizer
 
 Generate SEO-optimized titles, descriptions, and tags for your designs on Redbubble, Etsy, and more. Built with Next.js 14, React 19, Supabase, and multi-model AI support (Claude, Gemini, GPT-4).
@@ -53,17 +53,6 @@ Modern, responsive portfolio showcasing projects and skills with smooth animatio
 
 [![View Portfolio](https://img.shields.io/badge/-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shayniac.vercel.app)
 [![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thacxuantran/shayniac)
-
----
-
-### 📋 [Task Tracker](https://github.com/thacxuantran/task-tracker)
-> Task Management Application
-
-A clean, modern task tracking application built with Next.js and TypeScript for efficient task organization.
-
-**Tech:** `Next.js 15` `React 19` `TypeScript` `Tailwind CSS 4` `Radix UI`
-
-[![GitHub](https://img.shields.io/badge/-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thacxuantran/task-tracker)
 
 ---
 
